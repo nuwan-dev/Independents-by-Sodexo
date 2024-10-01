@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+// header
 .sodexo-header-container {
     width: 100%;
     position: fixed;
@@ -26,7 +27,7 @@
             padding: 15px 48px;
 
             .sodexo-top-nav-hamburger {
-                background-color: $Neutral-cream;
+                background-color: $Neutral-Cream;
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -60,7 +61,7 @@
             .sodexo-top-nav-btn {
                 text-decoration: none;
                 font-family: $poppins;
-                color: $Neutral-cream;
+                color: $Neutral-Cream;
                 font-size: 14px;
                 font-weight: 400;
                 padding: 12px 24px;
@@ -71,6 +72,7 @@
     }
 }
 
+// hero
 .sodexo-hero-container {
     width: 100%;
     height: 641px;
